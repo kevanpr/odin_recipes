@@ -1,0 +1,17 @@
+h1 {
+    background-color: chartreuse;
+    color:white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+    text-align: center;
+    width: 50%;
+    height: 50%;
+    align-items: center;
+
+}
+
+h2 {
+    background-color: darksalmon;
+    color:white;
+    font-size: medium;
+    text-align: center;
+}
