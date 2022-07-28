@@ -33,6 +33,59 @@ body {
     height: 1px;
 }
 
+.recipes {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 300px;
+    gap: 24px;
+    height: 350px;
+}
+
+.recipes a {
+    text-decoration: none;
+    color: black;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.cookies, .crepes, .lasagna {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 350px;
+    gap: 36px;
+}
+
+img {
+    height: 69px;
+    width: 69px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 6px;
+    width: 250px;
+}
+
+.separator {
+    background-color: black;
+    height: 1px;
+    width: 169px;
+    display: flex;
+    align-items: center;
+    margin: 12px;
+}
+
+.description {
+    text-align: center;
+    font-size: 18px;
+    width: 150px;
+}
+
+
 
 
 
